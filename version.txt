@@ -1,2 +1,2 @@
-V1.2.0
+V1.3.0
 https://github.com/maxmanusv1/articleore/raw/main/ArticleOreSetup.zip
