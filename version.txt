@@ -1,2 +1,3 @@
 V1.2.0
 https://github.com/maxmanusv1/articleore/raw/main/ArticleOreSetup.zip
+https://github.com/maxmanusv1/articleore/raw/main/articleorePortable.zip
