@@ -1,4 +1,4 @@
-V1.2.2
+V1.2.3
 https://github.com/maxmanusv1/articleore/raw/main/ArticleOreSetup.zip
 https://github.com/maxmanusv1/articleore/raw/main/articleorePortable.zip
 https://github.com/maxmanusv1/articleore/raw/main/articleoreUpdater.exe
